@@ -6,6 +6,7 @@
   Ejemplos
   *EUR,GBP, USD, COP*
 </ul>
+Soprta mas de 161 Tipos de Divisas.
 Para Mayor informacion de los codigos de la Divisas Soportadas, visite 
 https://www.exchangerate-api.com/docs/supported-currencies
 
